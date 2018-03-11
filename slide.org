@@ -1,0 +1,11 @@
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+
+* Store food saving system 
+since we can't increse resource , at least save it 
+* [[https://teapook.github.io/site/][image a delicious food]]  
+for example a wonderful cake 
+* +1 for popular one 
+* -1 for needed one 
+* precious get expensive , common get cheaper
+* broadcast to bigger market
+basic of modern economic
