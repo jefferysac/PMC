@@ -1,0 +1,27 @@
+* PMC (price market chain)
+
+This is a project inspired by Neo Taipei hackathon 
+
+** project concept 
+
+building a modern blockchain based modern daily-life economic infraustration. 
+
+like shopping website , order service app even in physical store .
+
+For demo , there is only the most simple model.
+
+NEO system increase price with need and decrease prevent waste of resource.
+
+But it's still capable of defense basic market price operation hype
+
+and stop waste and chaos from inappropraite economic operate even modern economic crime.
+
+* Reveal.js compiled slide 
+
+the slide in hackathon was compiled by org reveal.js package 
+
+it's compiled into html5 page , easy to access. 
+
+* TODO more implement 
+
+code test failed when running NEO python tool 
